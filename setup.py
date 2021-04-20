@@ -8,6 +8,6 @@ setup(
     author='suresh-3x',
     author_email='suresh.37x@gmail.com',
     license='unlicense',
-    packages=['ptolemaios'],
+    packages=['requests'],
     zip_safe=False
 )
